@@ -788,10 +788,6 @@ project-2-ai-risk-assessment-inventory/
     └── Evidence_Matrix.md
 ```
 
-## 48. Interview Positioning
-
-> I built an enterprise AI System Inventory and Risk Assessment framework using a fictional financial-services organization. I designed the inventory, intake process, risk classification, 5×5 assessment methodology, impact assessment, risk treatment, approval workflow, evidence requirements and reassessment process. I then applied it to ten representative AI systems, including recruitment screening, credit decision support, fraud detection, customer-service GenAI and cybersecurity AI. The framework is aligned at a high level with NIST AI RMF and ISO/IEC 42001.
-
 ### Professional Capability Demonstrated
 
 **AI Governance** — inventory governance; lifecycle governance; accountability; approval.
@@ -802,7 +798,7 @@ project-2-ai-risk-assessment-inventory/
 
 **Cybersecurity** — data protection; IAM; secure architecture; third-party risk; monitoring; incident management.
 
-## 49. Final Governance Traceability
+## 48. Final Governance Traceability
 
 ```
 AI SYSTEM
